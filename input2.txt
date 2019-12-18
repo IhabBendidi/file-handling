@@ -1,0 +1,5 @@
+D1	first five document
+D2	document will singl line document titl separ tab charact
+D3	well just space confus rest whitespac document tab easier
+D4	need look carriag return though languag allow line entiti
+D5	languag will insist block text delin carriag return statement

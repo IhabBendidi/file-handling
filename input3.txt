@@ -1,0 +1,30 @@
+first	D1
+five	D1
+document	D1	D2	D3
+will	D2	D5
+singl	D2
+line	D2	D4
+titl	D2
+separ	D2
+tab	D2	D3
+charact	D2
+well	D3
+just	D3
+space	D3
+confus	D3
+rest	D3
+whitespac	D3
+easier	D3
+need	D4
+look	D4
+carriag	D4	D5
+return	D4	D5
+though	D4
+languag	D4	D5
+allow	D4
+entiti	D4
+insist	D5
+block	D5
+text	D5
+delin	D5
+statement	D5

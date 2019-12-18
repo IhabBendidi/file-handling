@@ -1,0 +1,5 @@
+D1	this is the first of five documents
+D2	Each of the documents will be on a single line. the document title is separated by a TAB character
+D3	Why? well, just a space would be confusing with the rest of the whitespace in the documents. Tabs are easier.
+D4	You do need to look out for carriage returns though. some languages allow for "line" as an entity
+D5	Other languages will insist on a block of text delineated by carriage return statements!!!

@@ -1,0 +1,28 @@
+first	D1
+five	D1
+document	D1	D2	D3
+single	D2	
+line	D2	D4
+title	D2
+separate	D2
+tab	D2	D3
+character	D2
+well	D3
+just	D3
+confus	D3
+rest	D3
+whitespace	D3
+easier	D3
+need	D4
+look	D4
+out	D4
+carriage	D4	D5
+return	D4	D5
+though	D4
+language	D4	D5
+entity	D4
+insist	D5
+block	D5
+text	D5
+delineat	D5
+statement	D5
