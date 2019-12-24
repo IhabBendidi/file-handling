@@ -6,9 +6,9 @@ This is a simple training project to process, manipulate and data mine text data
 # Task 1
 
 ### Purpose 
-The goal of this task is to write a script that process basic text files containing numerous documents, and saves their output. This processing should consider punctuation, lower-casting, numbers, stop word removal and stemming.
+The goal of this task is to write a script, without usage of any external library, that process basic text files containing numerous documents, and saves their output. This processing should consider punctuation, lower-casting, numbers, stop word removal and stemming.
 
-
+### Implementation
 The command to launch the script for the task 1 is  :
 
 ```  python3 task1.py -i "input1.txt" -o "output.txt" -s "stopword_list.txt"  ```
@@ -28,7 +28,12 @@ The results provided by the website can be found in [here](https://tartarus.org/
 
 
 # Task 2
- The task 2 involves creating a script that creates an inverted index. To run it against the results of the previous task, this is the command to launch :
+
+### Purpose
+The goal of this task is to read document files that have been already preprocessed, and create, without usage of any external library, an inverted index of the word in them.
+
+### Implementation
+The task 2 involves creating a script that creates an inverted index. To run it against the results of the previous task, this is the command to launch :
 
 
 ```  python3 task2.py -i "input2.txt" -o "output.txt"  ```
@@ -38,6 +43,10 @@ The output is written to the file path you would give, if file already exists, o
 
 # Task 3
 
+### Purpose
+The goal of this task is to read an inverted index, without usage of any external library, and transform it into the TF-IDF matrix containing the TF-IDF score of each term
+
+### Implementation
 This task is about creating the TF-IDF matrix. The formulas used for computing are :
 
 IDF(t) = log_e(Total number of documents / Number of documents with term t in it)
@@ -54,6 +63,10 @@ The output is written to the file path you would give, if file already exists, o
 
 # Task 4
 
+### Purpose
+The purpose of this task is to compute, without usage of any external library, the cosine similarity between two documents, after reading the TF-IDF matrix of scores.
+
+### Implementation
 This task is about computing the cosine similarity between two documents, using the TF-IDF weight matrix previously created. The path to the input file is the previously created matrix.
 
 The command to launch the script is :
@@ -66,6 +79,10 @@ The output is returned in the console.
 
 # Task 5
 
+### Purpose
+The purpose of this task is creating, without usage of any external library, an unified complex proximity query language for finding documents that contain specific content, and resolving successfully those queries. You can find [here](https://github.com/IhabBendidi/file-handling/blob/master/_/IRWS2019.pdf) more details about the specifics of the query language implemented in this task.
+
+### Implementation
 This task is about resolving queries about the documents, under a certain order and priorities.
 
 The ``-i`` flag is for the input file, of normal documents ( the first input file used).
