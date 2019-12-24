@@ -1,5 +1,5 @@
 # Context
-This is a simple training project to process, manipulate and data mine text data. The requirement of the exercice is to use the Python language, without using any single external library, and implementing from scratch all parts. you can find the full details of the exercice [here](https://github.com/IhabBendidi/file-handling/blob/master/_/IRWS2019.pdf).
+This is a training project to find similarities between documents, and creating a query language for searching for documents in a document database tha resolve specific characteristics, through processing, manipulating and data mining text data. The requirement of the exercice is to use the Python language, without using any single external library, and implementing from scratch all parts. you can find the full details of the exercice [here](https://github.com/IhabBendidi/file-handling/blob/master/_/IRWS2019.pdf).
 
 
 
@@ -23,7 +23,7 @@ To test the stemming script against the example given on the [link](https://tart
 
 The input voc.txt was provided by the website Tartarus and is in the current folder
 The output of the script would be in the command line, and could be compared to the results provided in the website for accuracy (100%)
-The results provided by the website can be found in [here](https://tartarus.org/martin/PorterStemmer/output.txt)/
+The results provided by the website can be found in [here](https://tartarus.org/martin/PorterStemmer/output.txt)
 
 
 
