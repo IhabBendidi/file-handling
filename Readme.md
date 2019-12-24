@@ -1,3 +1,8 @@
+# Context
+This is a simple training project to process, manipulate and data mine text data. The requirement of the exercice is to use the Python language, without using any single external library, and implementing from scratch all parts. you can find the full details of the exercice (here)['https://github.com/IhabBendidi/file-handling/blob/master/_/IRWS2019.pdf']
+
+
+
 # Task 1
 The command to launch the script for the task 1 is (has to be launched through the command line in this folder, or provide complete paths for each file) :
 
