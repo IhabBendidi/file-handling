@@ -4,7 +4,12 @@ This is a simple training project to process, manipulate and data mine text data
 
 
 # Task 1
-The command to launch the script for the task 1 is (has to be launched through the command line in this folder, or provide complete paths for each file) :
+
+### Purpose 
+The goal of this task is to write a script that process basic text files containing numerous documents, and saves their output. This processing should consider punctuation, lower-casting, numbers, stop word removal and stemming.
+
+
+The command to launch the script for the task 1 is  :
 
 ```  python3 task1.py -i "input1.txt" -o "output.txt" -s "stopword_list.txt"  ```
 
@@ -12,14 +17,13 @@ You can provide your own stopword lists beside the one already in the project.
 The output is written to the file path you would give, if file already exists, or create a new file if it doesnt.
 The input file should necessarily have inside a title for each document, followed by a tab.
 
-To test the stemming script against the example given on the link provided on the instruction file
-(https://tartarus.org/martin/PorterStemmer/index.html), you can test it through the following script in the "_" folder :
+To test the stemming script against the example given on the [link](https://tartarus.org/martin/PorterStemmer/index.html) provided on the instruction file, you can test it through the following script in the "_" folder :
 
 ```  python3 teststemmer.py -i "voc.txt" -s "stopword_list.txt"  ```
 
 The input voc.txt was provided by the website Tartarus and is in the current folder
 The output of the script would be in the command line, and could be compared to the results provided in the website for accuracy (100%)
-The results provided by the website can be found in https://tartarus.org/martin/PorterStemmer/output.txt
+The results provided by the website can be found in [here](https://tartarus.org/martin/PorterStemmer/output.txt)/
 
 
 
