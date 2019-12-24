@@ -1,5 +1,0 @@
-D1	first five document
-D2	document will single line document title separated tab character
-D3	well just space confusing rest whitespace document tab easier
-D4	need look carriage return though language allow line entity
-D5	language will insist block text delineat carriage return statement
