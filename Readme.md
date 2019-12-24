@@ -1,5 +1,5 @@
 # Context
-This is a simple training project to process, manipulate and data mine text data. The requirement of the exercice is to use the Python language, without using any single external library, and implementing from scratch all parts. you can find the full details of the exercice [here]('https://github.com/IhabBendidi/file-handling/blob/master/_/IRWS2019.pdf')
+This is a simple training project to process, manipulate and data mine text data. The requirement of the exercice is to use the Python language, without using any single external library, and implementing from scratch all parts. you can find the full details of the exercice [here](https://github.com/IhabBendidi/file-handling/blob/master/_/IRWS2019.pdf).
 
 
 
